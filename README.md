@@ -30,7 +30,7 @@ Fontes Raw (CSV)
 ---
 
 ## 🗂️ Estrutura do Projeto
-
+```
 ecommerce-etl/
 ├── data/
 │   ├── raw/          # Dados brutos (fonte)
@@ -45,6 +45,7 @@ ecommerce-etl/
 ├── config.py         # Configurações centralizadas
 ├── pipeline.py       # Orquestrador principal
 └── requirements.txt
+```
 ---
 
 ## 🚀 Como executar
