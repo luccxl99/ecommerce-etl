@@ -12,19 +12,21 @@ Pipeline ETL completo para processamento de dados de e-commerce, construído do 
 
 ## 📐 Arquitetura
 
+```
 Fontes Raw (CSV)
-│
-▼
-[EXTRACT]  ── Leitura + validação de schema
-│
-▼
-[TRANSFORM] ── Limpeza, enriquecimento, métricas de negócio
-│
-▼
-[LOAD]    ── Carga no Data Warehouse (SQLite/PostgreSQL)
-│
-▼
-Relatórios & Métricas
+      │
+      ▼
+  [EXTRACT]  ── Leitura + validação de schema
+      │
+      ▼
+ [TRANSFORM] ── Limpeza, enriquecimento, métricas de negócio
+      │
+      ▼
+   [LOAD]    ── Carga no Data Warehouse (SQLite/PostgreSQL)
+      │
+      ▼
+  Relatórios & Métricas
+```
 ---
 
 ## 🗂️ Estrutura do Projeto
