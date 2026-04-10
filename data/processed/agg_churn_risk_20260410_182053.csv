@@ -1,0 +1,295 @@
+customer_id,name,email,state,last_purchase_date,days_since_purchase
+C094E269,José Siqueira,elopes@example.com,RJ,2025-10-25 16:21:40,167.0
+42AC423A,Dr. Joaquim Da Luz,ravysilva@example.net,SP,2026-01-18 04:04:58,82.0
+CFABBC4C,André Da Rocha,joaquimpinto@example.net,RS,2025-10-20 07:59:36,172.0
+9A4FB91A,Srta. Luísa Costela,lsouza@example.net,RS,2025-09-28 06:00:35,194.0
+028A8FF0,Ana Vitória Da Paz,arthurfarias@example.net,RJ,2025-11-20 12:31:33,141.0
+57D66F9D,Ana Cecília Fonseca,vitorrocha@example.org,RJ,2025-06-06 03:25:58,308.0
+F7B73B72,Maria Isis Rodrigues,lopeslevi@example.com,SC,2026-01-15 06:03:28,85.0
+3007BB3A,Stephany Sá,enzo-gabriel14@example.com,RJ,2025-11-16 22:29:59,144.0
+2DB6273C,Dr. Carlos Eduardo Novais,marcos-vinicius39@example.com,CE,2025-12-05 22:59:51,125.0
+CE997F71,Sr. Pedro Lucas Santos,qcassiano@example.org,PE,2026-01-13 15:31:50,87.0
+5222F9EB,Beatriz Barros,enricomontenegro@example.com,RS,2025-11-27 14:26:59,134.0
+7DAB2886,Sarah Alves,camila05@example.com,PE,2025-10-20 09:46:39,172.0
+AF3B2BF2,Pedro Miguel Teixeira,hvasconcelos@example.com,SC,2025-12-24 23:33:57,106.0
+0D203B8E,Ana Oliveira,correianicole@example.org,CE,2025-11-23 13:18:09,138.0
+5F5F655F,Eloá Araújo,gustavo-henrique86@example.net,BA,2026-02-05 22:56:39,63.0
+862368AD,Srta. Manuella Brito,ramosjose-pedro@example.net,SP,2025-10-17 10:01:24,175.0
+273A18D0,Lucas Aragão,lopesrafael@example.com,MG,2025-10-24 15:05:43,168.0
+68219C50,Heloísa Teixeira,alvesthiago@example.com,SC,2025-08-11 06:16:35,242.0
+7E589C44,Mirella Costela,garciaester@example.net,PR,2026-02-05 23:09:22,63.0
+7A76FA0C,Vitor Hugo Garcia,ujesus@example.org,BA,2026-01-03 15:27:50,97.0
+E910B784,Sara Brito,carlos-eduardo25@example.org,MG,2026-01-10 21:00:35,89.0
+0294A51E,Lorena Castro,otavio77@example.net,RJ,2025-07-22 03:56:29,262.0
+DC8FB1B6,Dr. Pietro Silva,juanferreira@example.net,RJ,2025-11-12 05:14:07,149.0
+C13436C7,Carolina Porto,maria-luizapinto@example.com,SC,2026-01-27 01:07:02,73.0
+563F6736,Bento Da Costa,almeidaayla@example.org,PR,2025-12-09 20:23:52,121.0
+70715121,Benício Barbosa,joao59@example.com,PR,2026-02-08 08:52:39,61.0
+BB95238A,Yan Melo,ianmoura@example.com,BA,2025-09-03 02:57:31,219.0
+CE1E7CD2,Sra. Allana Novais,carolina34@example.com,SP,2025-07-07 10:25:41,277.0
+52702392,Marcelo Da Mata,moraesguilherme@example.com,GO,2025-12-02 23:46:50,128.0
+FDB8D7CB,Paulo Costela,laviniada-cunha@example.com,PE,2026-01-21 17:25:47,79.0
+AD0D6FCD,Enzo Viana,brayan60@example.com,BA,2025-12-20 23:54:35,110.0
+50B069B5,Bruna Pinto,fariashelena@example.com,CE,2026-01-10 23:07:27,89.0
+B96A0DB3,Joana Jesus,benjamimbarros@example.com,CE,2026-02-06 17:51:01,63.0
+80377B33,Juliana Almeida,qazevedo@example.org,RS,2025-11-25 22:29:19,135.0
+5682934F,Dr. Théo Sales,ana26@example.com,SP,2026-01-05 06:08:17,95.0
+096784AA,Dra. Evelyn Rocha,da-motamariane@example.org,RS,2025-12-23 21:13:19,107.0
+0778F2B1,Ana Sophia Sá,ian56@example.com,BA,2025-12-25 07:33:43,106.0
+D663C064,Kaique Peixoto,montenegromaria-isis@example.com,SC,2025-10-29 04:42:33,163.0
+562511CC,Elisa Da Costa,maria-juliacamara@example.net,BA,2025-07-09 14:02:57,275.0
+892B968E,Allana Vargas,fmartins@example.com,PR,2025-07-22 02:38:54,262.0
+AE10BF1B,Augusto Brito,fporto@example.com,PR,2025-11-13 20:20:48,147.0
+AAC2DD51,Maria Laura Pereira,luiz-gustavo88@example.org,BA,2026-01-22 20:00:05,77.0
+F5EF2D1E,Rael Borges,leaoeloa@example.com,RJ,2025-10-28 14:20:49,164.0
+1F062BEC,Gabriela Guerra,ucassiano@example.org,PE,2026-01-14 20:57:47,85.0
+72959F25,Helena Oliveira,jcaldeira@example.net,RS,2025-12-16 02:42:20,115.0
+BE5B5B83,Maria Júlia Peixoto,ygarcia@example.org,GO,2025-09-17 11:30:43,205.0
+CBD7F2E8,Srta. Isabela Monteiro,qmelo@example.com,BA,2025-07-29 15:09:14,255.0
+BC4157D5,Liz Leão,davibarbosa@example.org,RS,2025-12-14 11:05:49,117.0
+57F5C0F9,Valentim Da Conceição,mabreu@example.org,PR,2025-12-28 12:12:37,103.0
+3EA57151,Sara Macedo,vpereira@example.com,PR,2025-08-02 14:08:43,251.0
+BE986001,Nicole Martins,pedro-lucasda-conceicao@example.net,BA,2025-11-17 11:38:58,144.0
+16AB4380,Benjamim Aparecida,pastormateus@example.com,RJ,2025-11-30 22:24:21,130.0
+CA415CBA,Vitor Hugo Gonçalves,cda-rosa@example.net,RS,2025-10-15 20:07:35,176.0
+CF47F672,Erick Rios,vnunes@example.org,PR,2025-12-20 11:53:26,111.0
+B41AAB85,Vicente Novais,vieiragabriela@example.net,RS,2026-01-18 14:08:44,82.0
+1411608B,Maria Sophia Leão,rda-costa@example.net,GO,2025-11-30 12:29:37,131.0
+3EC6830C,Caleb Melo,estherda-costa@example.org,GO,2026-02-04 14:35:48,65.0
+56C9CE49,Sr. Ryan Da Costa,duarteliz@example.com,MG,2025-10-25 09:41:24,167.0
+3ABC3A2F,Yasmin Abreu,fogacamaria-helena@example.net,BA,2025-12-28 16:26:04,103.0
+59517829,Caroline Costela,cardosoanthony@example.org,SC,2025-07-08 19:14:07,275.0
+697DB7E2,Lunna Nascimento,souzamurilo@example.org,PR,2025-05-31 12:55:46,314.0
+32C8FC4C,Sra. Ana Laura Cirino,wrios@example.org,RS,2026-01-20 10:47:29,80.0
+17F68EA7,Igor Silva,sousamelina@example.com,MG,2025-12-09 11:46:17,122.0
+BBBD4420,Luiz Fernando Da Luz,zpimenta@example.com,PE,2026-01-13 21:33:57,86.0
+3B535049,Vicente Cavalcanti,silvamatteo@example.org,GO,2025-07-22 11:12:06,262.0
+FF0A5A5B,Dra. Alexia Gomes,juliasa@example.org,RJ,2025-10-24 07:44:40,168.0
+877585DC,Bernardo Camargo,bsales@example.com,SP,2025-11-23 21:05:24,137.0
+9B0EFB3D,Clarice Sousa,ofonseca@example.com,RJ,2025-11-07 07:09:48,154.0
+2CB57FD3,Srta. Ana Beatriz Câmara,josue00@example.net,MG,2025-11-09 14:59:37,152.0
+51918C1F,Giovanna Aragão,tpeixoto@example.org,MG,2026-01-02 15:16:42,98.0
+F2117D49,Carlos Eduardo Garcia,ffonseca@example.org,CE,2025-12-13 18:52:42,117.0
+413EF292,Luara Silva,campospedro@example.net,RJ,2025-07-15 05:13:50,269.0
+AB0F8726,Pedro Pacheco,luiz-henrique15@example.com,SC,2026-01-09 01:07:54,91.0
+FBC4EE3E,Valentina Cardoso,milena37@example.com,SC,2026-01-14 22:50:27,85.0
+8AE9609A,Sr. Theodoro Rodrigues,aragaomaria@example.org,CE,2026-01-05 17:25:43,95.0
+3C82421F,Maria Vitória Leão,larissa82@example.com,GO,2025-12-05 13:14:50,126.0
+BB6F191C,Lara Barbosa,goncalvesmaria-julia@example.com,PE,2026-01-13 09:44:12,87.0
+06379B60,João Felipe Gonçalves,matteo16@example.com,SP,2025-04-23 01:51:20,352.0
+83A300A1,Arthur Miguel Carvalho,da-cruzisabel@example.org,PE,2025-04-20 03:17:32,355.0
+23862065,Larissa Sales,lunna37@example.com,BA,2025-09-09 11:40:21,213.0
+A7A25DB2,Valentim Camargo,joao-felipe67@example.org,SC,2025-09-21 15:06:20,201.0
+D0D181D7,Mathias Porto,allana93@example.com,MG,2025-12-03 20:19:20,127.0
+39CEC9BC,Sr. Enzo Dias,da-luzigor@example.com,GO,2026-01-25 17:56:26,75.0
+DC5A37CF,Bianca Da Costa,jose-pedro98@example.net,BA,2025-09-01 23:37:37,220.0
+4CD45ACB,Maitê Novais,maria-fernanda65@example.net,PE,2026-01-09 23:23:24,90.0
+2E2AD150,Ryan Garcia,viniciusalves@example.org,MG,2025-11-16 15:54:11,145.0
+0B8E9B8A,Fernando Montenegro,zcirino@example.com,PE,2025-04-30 10:33:34,345.0
+40EB5141,Ana Beatriz Mendonça,ana-liviasa@example.com,RJ,2025-04-22 15:22:01,353.0
+DB8C8F1B,Lucas Gabriel Garcia,eduarda45@example.org,CE,2026-01-29 05:49:07,71.0
+3E94B79A,Vitor Gabriel Andrade,pintocamila@example.org,RS,2025-12-04 14:17:13,127.0
+17C4D471,Ísis Novais,luiz-otavio14@example.com,PR,2026-01-06 01:42:42,94.0
+FA6C5C0C,Olivia Garcia,ian40@example.org,MG,2026-01-03 20:37:22,96.0
+0673D70C,Sra. Maria Sophia Cardoso,emanuelly04@example.com,PE,2025-11-15 13:23:20,146.0
+E40717C5,Diego Machado,iguerra@example.com,PE,2026-02-09 03:10:20,60.0
+E2490FE1,Asafe Das Neves,maysaguerra@example.org,SP,2025-10-29 17:31:40,163.0
+25DD5752,Theodoro Garcia,antoniocampos@example.org,SP,2025-10-22 21:47:14,169.0
+E38876F9,Ana Clara Garcia,elisa45@example.com,RJ,2026-01-12 20:13:14,87.0
+223594A7,Bryan Ferreira,luan28@example.org,PR,2025-08-25 10:07:12,228.0
+CE7762CF,Luiz Henrique Cunha,rodrigo28@example.net,BA,2025-11-24 17:53:18,137.0
+3A6AA154,Maria Flor Souza,bryanda-conceicao@example.net,SP,2025-12-02 22:22:40,128.0
+C14473A0,João Miguel Cavalcante,brunajesus@example.org,RS,2025-12-01 04:30:53,130.0
+226E032A,Dom Lopes,hfernandes@example.org,RJ,2026-01-27 00:56:50,73.0
+7F354D3C,Laís Pimenta,cunhamaria-eduarda@example.com,RJ,2025-09-19 16:35:40,203.0
+792E72A7,Ana Liz Garcia,leosampaio@example.com,GO,2025-10-28 14:20:12,164.0
+7883C99C,Cauã Sousa,joanacirino@example.com,PE,2025-07-12 01:42:48,272.0
+3599A597,Davi Miguel Viana,ayla18@example.org,MG,2025-09-29 11:53:00,193.0
+5DF3206E,Ester Da Rocha,pastoresther@example.org,BA,2025-06-19 00:49:25,295.0
+11BDCFF7,Isabela Da Luz,nicole59@example.net,RS,2025-12-23 06:50:56,108.0
+134F4986,Asafe Macedo,epereira@example.net,RS,2025-12-17 08:17:00,114.0
+C25D52DE,Davi Lucas Lima,cpinto@example.org,BA,2025-11-26 02:31:13,135.0
+148593D7,Maria Sophia Borges,rafaela71@example.com,SC,2026-01-09 04:25:09,91.0
+6E37A182,Ana Carolina Pastor,barbara65@example.org,PE,2026-01-12 13:11:50,88.0
+88B366F2,Sra. Isadora Carvalho,dcunha@example.net,GO,2025-11-26 05:15:37,135.0
+C8E6A401,Sr. Dom Fogaça,ncosta@example.org,RJ,2025-12-25 12:38:39,106.0
+F34BCF20,Lucas Vasconcelos,caldeiraayla@example.net,RS,2026-02-06 20:28:48,62.0
+44D088B0,Maria Clara Carvalho,ana-vitoriavargas@example.org,PR,2025-11-23 20:42:35,137.0
+7E6766A6,Ana Carolina Carvalho,aparecidaluan@example.org,SP,2026-01-30 11:59:41,70.0
+C514DAA4,Allana Monteiro,nina78@example.net,CE,2026-02-03 01:15:15,66.0
+E03DA8B9,Maria Helena Novais,rhavi47@example.org,RS,2025-07-22 15:19:09,262.0
+1F235342,Rafaela Barbosa,ramospedro-henrique@example.org,CE,2025-07-05 20:17:01,278.0
+62E83229,Dr. Brayan Alves,guilhermerezende@example.org,RS,2025-07-08 00:35:22,276.0
+81E01C11,Esther Jesus,calebandrade@example.com,SP,2025-07-25 07:58:48,259.0
+E0A8C8D1,Thomas Moraes,yago21@example.net,RJ,2025-10-11 06:02:07,181.0
+FA212EE2,Marina Rezende,tvasconcelos@example.com,SP,2025-07-03 21:54:57,280.0
+8ED46BC1,Sr. Murilo Câmara,yansilveira@example.net,RS,2026-02-02 20:04:18,66.0
+FFCC8D88,Vicente Sampaio,camposgustavo-henrique@example.org,RJ,2025-11-19 05:03:49,142.0
+B3E89545,Emanuella Peixoto,npastor@example.com,PR,2026-01-09 10:36:39,91.0
+DC79435A,Leonardo Cirino,goncalveslucas@example.org,RJ,2026-01-22 14:55:52,78.0
+32434999,Eloá Alves,fsa@example.com,PE,2025-12-20 04:51:37,111.0
+98D432F5,Enzo Gabriel Macedo,joao-pedro91@example.net,BA,2025-12-26 11:09:46,105.0
+4A4129FA,Bruna Das Neves,limanina@example.net,GO,2026-02-04 23:21:56,64.0
+57F165B3,Gabrielly Nogueira,nogueiraaurora@example.net,RS,2025-11-15 14:19:22,146.0
+E6E16F57,Lucas Da Paz,ayllanunes@example.org,PE,2025-12-03 18:29:04,127.0
+42B0C9C3,Luiz Otávio Moreira,emilly33@example.com,CE,2026-01-08 02:11:24,92.0
+66552AF8,Vitória Borges,gabrielamacedo@example.com,CE,2026-01-10 11:56:28,90.0
+C671C05D,Allana Pacheco,mendesmaria-vitoria@example.com,GO,2025-10-03 22:41:43,188.0
+0D029D50,Vitória Moraes,teixeiraisadora@example.org,RS,2025-12-31 20:02:00,99.0
+63D409E2,Dr. Arthur Miguel Marques,luna32@example.net,GO,2025-08-16 11:52:34,237.0
+E9C5B7A0,Maria Cecília Garcia,isissales@example.net,SC,2025-11-21 18:37:07,139.0
+35A59DAD,Dr. Davi Lucas Camargo,onovaes@example.net,SC,2026-01-21 16:36:06,79.0
+5C5FBDBB,Ryan Costela,rebeca89@example.net,PR,2025-11-08 12:34:50,153.0
+49934CE0,Melissa Fogaça,melobarbara@example.net,SC,2025-12-13 10:04:11,118.0
+8FE85BB8,Isabella Moreira,pabreu@example.net,SC,2025-04-23 13:06:01,352.0
+8306BB4A,Sr. Matheus Monteiro,sofia55@example.com,RJ,2025-11-27 23:01:43,133.0
+393EE355,Calebe Brito,allanaalmeida@example.com,RS,2025-12-25 05:13:43,106.0
+AD08EFCE,Ana Sophia Pinto,osales@example.net,RS,2025-10-08 13:57:37,184.0
+ECEDFFFA,Yasmin Mendonça,castrojoao-vitor@example.com,RS,2026-02-09 13:24:33,60.0
+7EE27134,Bruno Almeida,monteirohenrique@example.com,PE,2025-11-09 11:05:42,152.0
+484A6A08,Jade Teixeira,rodrigo16@example.org,GO,2025-09-13 10:06:57,209.0
+328CC9E2,Maria Flor Leão,da-conceicaogustavo-henrique@example.com,SC,2025-11-27 02:49:01,134.0
+342A7730,Anthony Gabriel Sales,anna-liz54@example.net,MG,2025-06-06 00:05:50,308.0
+2554C27C,Maria Liz Andrade,znogueira@example.org,RS,2026-01-26 09:59:08,74.0
+531DB346,Allana Da Luz,bmoreira@example.net,GO,2025-11-25 18:47:56,135.0
+ADAA1FCA,Gustavo Henrique Ribeiro,bcassiano@example.org,PE,2025-08-06 09:07:22,247.0
+82913E90,Raquel Machado,fsales@example.org,RJ,2025-12-02 13:24:59,129.0
+DA64240B,Lucas Sousa,portobella@example.net,GO,2025-09-26 19:24:24,195.0
+3886DA6A,Maria Alice Sales,blima@example.net,RS,2025-11-26 08:45:18,135.0
+E35F4DE7,Sabrina Santos,isabellagarcia@example.com,SC,2025-10-11 06:45:19,181.0
+C091EAEC,Maria Pimenta,ana-luiza59@example.org,SP,2026-01-15 09:29:32,85.0
+653A4AEE,Dr. Lucas Gabriel Farias,rafael55@example.net,MG,2026-01-11 20:25:39,88.0
+1EFF8251,Mateus Montenegro,amandaferreira@example.org,SC,2026-02-06 00:02:27,63.0
+5BA09EC4,Letícia Moreira,montenegromanuela@example.org,SP,2025-09-02 22:28:57,219.0
+C391D70C,Kevin Pastor,helenarodrigues@example.com,GO,2025-09-20 00:24:09,202.0
+C958976E,Maria Luiza Ribeiro,ofernandes@example.net,RS,2026-01-28 16:56:10,72.0
+EC26A303,Daniel Lopes,novaeslavinia@example.net,RS,2026-01-07 12:56:27,93.0
+5154F54F,Dr. Eduardo Abreu,carvalhoarthur-gabriel@example.org,SP,2025-12-01 19:13:52,129.0
+DF5E14A4,Liam Nascimento,kevinpinto@example.net,CE,2025-11-14 10:14:06,147.0
+83F5482B,Bianca Ramos,pedro-miguel37@example.org,PE,2025-12-07 19:45:08,123.0
+0CE39142,Sabrina Fogaça,vitorazevedo@example.org,SP,2025-12-15 22:38:59,115.0
+6A79DAC1,Danilo Cunha,monteirovalentina@example.org,PR,2025-11-23 16:19:41,138.0
+F81FD806,Srta. Clarice Da Mota,iribeiro@example.net,PE,2026-02-08 00:19:42,61.0
+07DCD31F,Vicente Casa Grande,vianaesther@example.org,PE,2025-07-31 11:52:25,253.0
+11FBF598,Luiza Almeida,clarice66@example.com,MG,2025-08-26 06:43:54,227.0
+36E97ACD,Rafael Santos,mariana01@example.org,RS,2025-07-10 19:58:58,273.0
+2BE24524,Renan Duarte,lorenzo99@example.org,SC,2025-09-20 04:56:19,202.0
+E3798ACC,Isaque Jesus,cassianoana-luiza@example.org,RJ,2025-07-19 13:29:20,265.0
+602505DD,Matheus Azevedo,ana-livia56@example.org,CE,2025-10-29 12:36:02,163.0
+2100088B,Ester Alves,albuquerquegustavo-henrique@example.net,RS,2025-12-22 18:18:18,109.0
+68AF3EB7,Sr. Levi Sá,maria-liz48@example.org,CE,2025-11-06 02:35:25,155.0
+FD89CA4B,Arthur Correia,pastormaria-luiza@example.com,SP,2026-01-09 13:22:05,91.0
+362C338C,Maria Vitória Da Luz,nazevedo@example.org,CE,2025-04-12 02:19:11,363.0
+2F2CDC5F,Maria Júlia Correia,sabrina24@example.net,BA,2026-02-08 20:39:25,60.0
+463CB5B5,Sra. Maria Fernanda Carvalho,rnunes@example.com,RS,2026-01-17 04:24:49,83.0
+6CDFE08F,Gabriela Souza,gael41@example.net,PR,2025-09-26 22:13:14,195.0
+4C5306C4,Davi Luiz Rezende,vsantos@example.org,RS,2025-07-19 13:45:06,265.0
+DC0F293A,Lorenzo Câmara,davi-lucas59@example.org,BA,2025-09-24 16:58:14,198.0
+A4A0DE75,Apollo Câmara,novaisnicolas@example.org,SP,2025-10-18 03:38:20,174.0
+1C2C4948,Mariah Moura,valentina70@example.net,GO,2025-05-26 21:14:52,318.0
+6D8FA006,Srta. Maria Eduarda Porto,pintomaria-isis@example.net,CE,2025-12-13 04:05:58,118.0
+C2C7AC9F,Heloisa Carvalho,mendoncacaue@example.com,RJ,2025-04-17 23:57:34,357.0
+A70F22A9,Ana Liz Oliveira,gaelsilveira@example.org,PE,2026-02-03 07:20:28,66.0
+16D51E44,Bento Fonseca,carolinarocha@example.net,MG,2026-01-21 02:53:15,79.0
+50AB16CB,Lavínia Sá,fernandesotavio@example.org,RJ,2025-12-23 07:00:40,108.0
+8936B041,Luísa Costela,ucassiano@example.org,RS,2026-01-18 17:41:02,82.0
+84462961,Lunna Brito,zsales@example.org,PR,2025-11-17 06:26:14,144.0
+2A23ACB8,Caio Freitas,jesusbreno@example.com,BA,2025-10-22 10:33:03,170.0
+72987C8D,Renan Almeida,varaujo@example.org,PE,2025-12-21 12:10:15,110.0
+2F63D538,Carlos Eduardo Pacheco,onogueira@example.net,BA,2026-01-16 08:20:50,84.0
+3056DB80,Arthur Da Rocha,rodriguesisabela@example.org,CE,2025-07-15 00:29:48,269.0
+7F1943B7,Enzo Gabriel Costa,maysacarvalho@example.com,PE,2025-10-10 22:45:54,181.0
+5D241861,Henry Da Cunha,limaleo@example.org,PE,2026-02-04 01:35:13,65.0
+CF9E4C0D,Sra. Maria Sophia Souza,diogoalves@example.com,RJ,2025-07-10 05:04:21,274.0
+5EFBB71A,Fernanda Nogueira,anthony-gabriel91@example.org,MG,2026-02-01 04:35:11,68.0
+62D59AC6,Ravi Lucca Fogaça,pintobianca@example.org,RJ,2026-01-17 13:24:54,83.0
+8BD4AB7D,Sra. Sophia Moura,gabrielasouza@example.org,RJ,2026-01-30 10:58:44,70.0
+FBA6BFED,Nina Santos,marianecavalcante@example.net,PE,2025-12-07 20:54:00,123.0
+00B2CD62,Dra. Bárbara Pires,limavitoria@example.net,MG,2026-01-23 08:23:03,77.0
+B3B4906C,Evelyn Nogueira,da-rosamateus@example.org,BA,2025-10-19 08:30:26,173.0
+9F6FBBA1,Liam Farias,gustavo70@example.org,BA,2026-01-28 18:39:19,71.0
+FC97B6BE,Sra. Ana Julia Aparecida,saeduardo@example.org,RS,2025-10-18 21:42:51,173.0
+F54C44FA,Sr. Antony Pires,bda-mota@example.com,PE,2025-10-01 14:33:40,191.0
+6EB8A48B,Eduardo Garcia,barbosakevin@example.com,BA,2025-10-10 11:19:34,182.0
+1FEBD9F4,Maria Laura Das Neves,josuefreitas@example.com,SP,2025-07-15 13:38:15,269.0
+74B83F7C,Elisa Da Costa,pastorgiovanna@example.org,BA,2026-01-28 09:01:47,72.0
+48243CDA,Lucca Duarte,ffarias@example.net,SP,2025-12-22 15:12:53,109.0
+B1A55E4E,Mariana Cunha,evelynoliveira@example.com,SP,2025-07-05 01:27:21,279.0
+B7101B5F,Luiz Henrique Da Costa,cavalcantivinicius@example.com,MG,2026-01-20 09:30:15,80.0
+C033DA54,Ana Vitória Da Costa,cardosoana-julia@example.net,MG,2025-10-23 03:58:13,169.0
+5B676A98,Ana Vitória Viana,tcostela@example.org,PE,2025-08-06 18:18:25,247.0
+14B28758,Mathias Fogaça,theo44@example.org,PE,2025-08-11 07:34:50,242.0
+A7DBEAA4,João Felipe Novais,eduarda23@example.net,RJ,2025-05-16 01:25:48,329.0
+A10DD330,Maitê Da Cruz,oalves@example.net,SP,2025-07-09 22:04:06,274.0
+E8ADEF6A,Dra. Stella Da Rosa,rochaluan@example.net,PR,2026-01-13 04:08:42,87.0
+3ECF286D,Maria Cecília Borges,zcardoso@example.com,CE,2025-12-05 06:04:27,126.0
+4FBFBC32,Lara Farias,sarahdias@example.com,PE,2025-09-07 00:59:15,215.0
+032DCDC9,Henry Ferreira,heloisa08@example.net,SC,2026-01-15 00:49:17,85.0
+FEDB56D2,Laura Sampaio,castrojose@example.org,SP,2025-09-28 20:19:53,193.0
+56ED5BE5,Melina Macedo,brenosiqueira@example.net,BA,2026-01-09 05:02:36,91.0
+6ACE189D,Théo Viana,piresleonardo@example.com,SP,2026-01-15 14:42:40,85.0
+471F7448,Ana Liz Sousa,zlopes@example.com,PR,2025-10-15 20:58:31,176.0
+2B1BDFC9,Levi Teixeira,juanferreira@example.org,RS,2025-12-15 11:14:48,116.0
+D0A7D25F,Luiz Miguel Pastor,gdias@example.net,RJ,2025-05-27 21:41:37,317.0
+A5957C93,Augusto Da Cruz,alveslaura@example.net,PR,2025-07-06 18:24:55,277.0
+74DB0722,Sra. Larissa Mendes,pimentaaugusto@example.com,PE,2025-08-03 22:46:10,249.0
+AD43AD72,Cecília Nunes,pietrabarbosa@example.com,SC,2026-01-14 08:14:57,86.0
+5B3F669A,Melina Correia,catarina13@example.org,CE,2026-01-30 02:52:25,70.0
+1654D8E3,Cecília Dias,brayan20@example.org,RS,2025-11-02 01:15:25,159.0
+7F0A5592,Benjamin Duarte,vieiramaria-laura@example.net,SC,2025-12-05 09:43:11,126.0
+42F25660,Ana Laura Moraes,isabela97@example.net,RS,2025-11-15 11:23:23,146.0
+971A3278,Kamilly Da Cunha,maria-ceciliasilveira@example.com,BA,2025-10-31 11:32:46,161.0
+46446445,Maya Lopes,uda-conceicao@example.net,GO,2025-07-09 23:28:14,274.0
+D7979367,Gabriela Moraes,zda-conceicao@example.org,RS,2026-02-05 05:17:48,64.0
+FB0D2F29,Juliana Moreira,fariasbella@example.org,GO,2025-12-13 00:39:58,118.0
+246610D8,José Pedro Câmara,marcos-viniciusazevedo@example.net,PR,2025-12-21 01:00:23,110.0
+1A0BE576,Otávio Sá,lorenalima@example.com,BA,2025-12-30 00:35:31,101.0
+CA6D5694,Sr. Gael Henrique Ramos,sarah97@example.net,RS,2026-02-02 05:27:01,67.0
+24C66978,Zoe Machado,nguerra@example.net,SP,2026-01-31 13:00:06,69.0
+860B8255,Theo Almeida,wnovais@example.com,RS,2025-11-27 05:17:51,134.0
+2C57A2E4,Guilherme Nogueira,pimentapedro@example.org,SC,2025-08-02 02:42:01,251.0
+B88A4EE0,Luan Fonseca,bianca66@example.net,PR,2025-09-25 15:47:33,197.0
+31E7A655,Henry Borges,guilherme17@example.org,RJ,2025-06-19 08:06:10,295.0
+CCEC92DF,Yan Da Luz,eloahmoreira@example.com,PE,2026-01-12 14:53:03,88.0
+A199CC9D,Dr. João Vitor Cirino,arthur-miguel54@example.com,PR,2025-10-03 13:50:45,189.0
+E29ED6B5,Heloísa Aragão,liam84@example.com,SP,2026-01-03 08:10:29,97.0
+02F73328,Dra. Eloá Correia,viananatalia@example.net,RJ,2025-12-01 15:45:44,130.0
+F3691274,Erick Rodrigues,jose-miguelda-mata@example.org,BA,2025-11-30 21:12:43,130.0
+A9486168,Leonardo Da Paz,cardosorodrigo@example.org,RJ,2025-12-09 13:19:33,122.0
+F9DFC502,Rael Leão,olivercastro@example.com,SC,2025-12-31 16:19:14,100.0
+0C438C17,Ana Cecília Novaes,fmendonca@example.org,PR,2025-09-15 00:09:10,207.0
+00CCF6C7,Henrique Rodrigues,cavalcantepaulo@example.net,PR,2025-11-06 03:58:58,155.0
+027C1072,Ester Lima,pereirajade@example.net,SC,2025-05-13 05:59:04,332.0
+7AAA6622,Sr. Eduardo Leão,ribeiroenzo-gabriel@example.net,CE,2026-01-05 13:22:14,95.0
+DF3A94D3,Nathan Cunha,luiz-gustavo62@example.com,PE,2025-12-21 09:37:35,110.0
+3DF18150,Sra. Letícia Jesus,camilagarcia@example.net,RJ,2026-02-03 10:42:47,66.0
+8BEF4F1D,João Gabriel Da Rosa,araujoaylla@example.org,SC,2025-11-22 21:40:26,138.0
+0148CB2C,Ravi Lucca Santos,gpinto@example.org,CE,2025-10-22 01:50:11,170.0
+5F2FC449,Benicio Sampaio,luanamelo@example.net,RS,2025-09-16 03:45:30,206.0
+F09968B9,Antonella Vargas,alvesmaria-luiza@example.net,SC,2025-09-01 04:13:42,221.0
+F2C26614,Isaac Jesus,gfonseca@example.net,SP,2025-12-03 17:01:42,128.0
+74DCB4D7,Dom Ramos,maria-liz20@example.org,PE,2025-07-20 11:43:14,264.0
+2106D078,Asafe Melo,henriqueramos@example.net,PR,2026-01-21 08:18:41,79.0
+624FF3A8,Dr. Nicolas Da Costa,laviniada-rosa@example.com,RJ,2026-01-11 13:56:29,89.0
+DDF78D00,Daniel Da Costa,maria-cecilia35@example.com,PR,2025-06-09 05:50:18,305.0
+D89B17FD,Bianca Cirino,rhavicamara@example.com,RJ,2025-11-15 07:29:18,146.0
+2375C213,Liam Pires,cassianomaria-eduarda@example.org,PE,2025-09-25 08:13:57,197.0
+BF9755F2,Maria Liz Da Cruz,miguel53@example.org,BA,2025-10-20 20:28:07,171.0
+8BCB0642,Cecília Farias,cbrito@example.org,SC,2025-11-03 20:05:29,157.0
+98284A4A,Theodoro Sá,emanuellamacedo@example.com,BA,2025-10-25 23:49:54,166.0
+87503014,Clara Caldeira,hellenada-costa@example.net,MG,2025-11-14 05:54:25,147.0
+385229E2,Ana Cecília Azevedo,luisacavalcanti@example.com,RS,2025-07-14 09:42:35,270.0
+F0087A73,Dom Novais,das-nevespaulo@example.net,SC,2025-11-15 16:55:36,146.0
+645F022D,Emanuel Santos,qnogueira@example.com,SC,2026-01-20 11:05:27,80.0
+18A79831,Pedro Lucas Azevedo,jlima@example.net,MG,2025-12-17 17:14:45,114.0
+70001B89,Levi Araújo,cassianomirella@example.net,CE,2025-12-27 03:22:58,104.0
+20BB3CC8,Ana Sá,meloana-beatriz@example.com,BA,2026-01-29 23:14:47,70.0
+C877E5C0,Joana Leão,henry04@example.net,SC,2025-11-09 21:58:04,151.0
+8A369489,Maya Aragão,augusto32@example.org,PE,2026-02-03 20:31:33,65.0
+ACE86964,Hadassa Brito,limamaria-luisa@example.org,SP,2025-12-18 07:31:14,113.0
+2BC1882F,Sr. Enzo Gabriel Silveira,benjamim64@example.org,BA,2025-10-24 23:30:27,167.0
+2F3A668F,Amanda Pereira,ian82@example.net,BA,2025-10-05 06:14:34,187.0
+97D3A2B3,Breno Freitas,xcasa-grande@example.net,RS,2025-07-20 02:46:31,264.0
+B4FC1C9C,Marcos Vinicius Nunes,cecilia75@example.net,CE,2025-11-18 14:02:17,143.0
+193CE6D1,Cauã Pimenta,ecarvalho@example.net,PR,2025-11-17 17:42:41,144.0
+2FAD75B8,João Guilherme Da Paz,jose-pedrocassiano@example.net,GO,2025-12-31 15:38:52,100.0

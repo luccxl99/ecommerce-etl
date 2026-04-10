@@ -1,0 +1,70 @@
+2026-04-10 18:20:53 | INFO     | Pipeline iniciado — step=all
+2026-04-10 18:20:53 | INFO     | === EXTRACT: iniciando ===
+2026-04-10 18:20:53 | INFO     | [orders] 2,000 linhas extraídas — schema OK
+2026-04-10 18:20:53 | INFO     | [customers] 500 linhas extraídas — schema OK
+2026-04-10 18:20:53 | INFO     | [products] 100 linhas extraídas — schema OK
+2026-04-10 18:20:53 | SUCCESS  | === EXTRACT: concluído ===
+2026-04-10 18:20:53 | INFO     | === TRANSFORM: iniciando ===
+2026-04-10 18:20:53 | INFO     | clean_orders: 2,000 -> 1,961 linhas (39 removidas)
+2026-04-10 18:20:53 | INFO     | enrich_orders: 1,961 linhas, 15 colunas
+2026-04-10 18:20:53 | INFO     | calc_churn_risk: 294 clientes em risco
+2026-04-10 18:20:53 | SUCCESS  | === TRANSFORM: concluído ===
+2026-04-10 18:20:53 | INFO     | === LOAD: iniciando ===
+2026-04-10 18:20:53 | INFO     | Tabela 'dim_customers': 500 linhas carregadas
+2026-04-10 18:20:53 | INFO     | Tabela 'dim_products': 100 linhas carregadas
+2026-04-10 18:20:53 | INFO     | Tabela 'fact_orders': 1,961 linhas carregadas
+2026-04-10 18:20:53 | INFO     | Tabela 'agg_revenue_period': 13 linhas carregadas
+2026-04-10 18:20:53 | INFO     | Tabela 'agg_top_products': 10 linhas carregadas
+2026-04-10 18:20:53 | INFO     | Tabela 'agg_churn_risk': 294 linhas carregadas
+2026-04-10 18:20:53 | INFO     | Tabela 'agg_orders_by_status': 4 linhas carregadas
+2026-04-10 18:20:53 | DEBUG    | CSV salvo: C:\Users\lucca\ProjectPython\ecommerce-etl\data\processed\dim_customers_20260410_182053.csv
+2026-04-10 18:20:53 | DEBUG    | CSV salvo: C:\Users\lucca\ProjectPython\ecommerce-etl\data\processed\dim_products_20260410_182053.csv
+2026-04-10 18:20:53 | DEBUG    | CSV salvo: C:\Users\lucca\ProjectPython\ecommerce-etl\data\processed\fact_orders_20260410_182053.csv
+2026-04-10 18:20:53 | DEBUG    | CSV salvo: C:\Users\lucca\ProjectPython\ecommerce-etl\data\processed\agg_revenue_period_20260410_182053.csv
+2026-04-10 18:20:53 | DEBUG    | CSV salvo: C:\Users\lucca\ProjectPython\ecommerce-etl\data\processed\agg_top_products_20260410_182053.csv
+2026-04-10 18:20:53 | DEBUG    | CSV salvo: C:\Users\lucca\ProjectPython\ecommerce-etl\data\processed\agg_churn_risk_20260410_182053.csv
+2026-04-10 18:20:53 | DEBUG    | CSV salvo: C:\Users\lucca\ProjectPython\ecommerce-etl\data\processed\agg_orders_by_status_20260410_182053.csv
+2026-04-10 18:20:53 | INFO     | ──────────────────────────────────────────────────
+2026-04-10 18:20:53 | INFO     | 💰 Receita total:     R$ 2,746,358.04
+2026-04-10 18:20:53 | INFO     | 📦 Total de pedidos:         1,625
+2026-04-10 18:20:53 | INFO     | 🎫 Ticket médio:      R$     1,694.00
+2026-04-10 18:20:53 | INFO     | ⚠️  Clientes em risco:          294
+2026-04-10 18:20:53 | INFO     | 🏆 Top produto:       PROD-0030 (R$ 81,266.64)
+2026-04-10 18:20:53 | INFO     | ──────────────────────────────────────────────────
+2026-04-10 18:20:53 | SUCCESS  | === LOAD: concluído ===
+2026-04-10 18:20:53 | SUCCESS  | Pipeline finalizado com sucesso ✅
+2026-04-10 18:22:15 | INFO     | Pipeline iniciado — step=all
+2026-04-10 18:22:15 | INFO     | === EXTRACT: iniciando ===
+2026-04-10 18:22:15 | INFO     | [orders] 2,000 linhas extraídas — schema OK
+2026-04-10 18:22:15 | INFO     | [customers] 500 linhas extraídas — schema OK
+2026-04-10 18:22:15 | INFO     | [products] 100 linhas extraídas — schema OK
+2026-04-10 18:22:15 | SUCCESS  | === EXTRACT: concluído ===
+2026-04-10 18:22:15 | INFO     | === TRANSFORM: iniciando ===
+2026-04-10 18:22:15 | INFO     | clean_orders: 2,000 -> 1,961 linhas (39 removidas)
+2026-04-10 18:22:15 | INFO     | enrich_orders: 1,961 linhas, 15 colunas
+2026-04-10 18:22:15 | INFO     | calc_churn_risk: 294 clientes em risco
+2026-04-10 18:22:15 | SUCCESS  | === TRANSFORM: concluído ===
+2026-04-10 18:22:15 | INFO     | === LOAD: iniciando ===
+2026-04-10 18:22:15 | INFO     | Tabela 'dim_customers': 500 linhas carregadas
+2026-04-10 18:22:15 | INFO     | Tabela 'dim_products': 100 linhas carregadas
+2026-04-10 18:22:15 | INFO     | Tabela 'fact_orders': 1,961 linhas carregadas
+2026-04-10 18:22:15 | INFO     | Tabela 'agg_revenue_period': 13 linhas carregadas
+2026-04-10 18:22:15 | INFO     | Tabela 'agg_top_products': 10 linhas carregadas
+2026-04-10 18:22:15 | INFO     | Tabela 'agg_churn_risk': 294 linhas carregadas
+2026-04-10 18:22:15 | INFO     | Tabela 'agg_orders_by_status': 4 linhas carregadas
+2026-04-10 18:22:15 | DEBUG    | CSV salvo: C:\users\lucca\ProjectPython\ecommerce-etl\data\processed\dim_customers_20260410_182215.csv
+2026-04-10 18:22:15 | DEBUG    | CSV salvo: C:\users\lucca\ProjectPython\ecommerce-etl\data\processed\dim_products_20260410_182215.csv
+2026-04-10 18:22:15 | DEBUG    | CSV salvo: C:\users\lucca\ProjectPython\ecommerce-etl\data\processed\fact_orders_20260410_182215.csv
+2026-04-10 18:22:15 | DEBUG    | CSV salvo: C:\users\lucca\ProjectPython\ecommerce-etl\data\processed\agg_revenue_period_20260410_182215.csv
+2026-04-10 18:22:15 | DEBUG    | CSV salvo: C:\users\lucca\ProjectPython\ecommerce-etl\data\processed\agg_top_products_20260410_182215.csv
+2026-04-10 18:22:15 | DEBUG    | CSV salvo: C:\users\lucca\ProjectPython\ecommerce-etl\data\processed\agg_churn_risk_20260410_182215.csv
+2026-04-10 18:22:15 | DEBUG    | CSV salvo: C:\users\lucca\ProjectPython\ecommerce-etl\data\processed\agg_orders_by_status_20260410_182215.csv
+2026-04-10 18:22:15 | INFO     | ──────────────────────────────────────────────────
+2026-04-10 18:22:15 | INFO     | 💰 Receita total:     R$ 2,746,358.04
+2026-04-10 18:22:15 | INFO     | 📦 Total de pedidos:         1,625
+2026-04-10 18:22:15 | INFO     | 🎫 Ticket médio:      R$     1,694.00
+2026-04-10 18:22:15 | INFO     | ⚠️  Clientes em risco:          294
+2026-04-10 18:22:15 | INFO     | 🏆 Top produto:       PROD-0030 (R$ 81,266.64)
+2026-04-10 18:22:15 | INFO     | ──────────────────────────────────────────────────
+2026-04-10 18:22:15 | SUCCESS  | === LOAD: concluído ===
+2026-04-10 18:22:15 | SUCCESS  | Pipeline finalizado com sucesso ✅

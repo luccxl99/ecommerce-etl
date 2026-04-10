@@ -1,0 +1,101 @@
+product_id,name,category,cost_price,list_price,gross_margin
+PROD-0001,O conforto de evoluir com toda a tranquilidade,Roupas,397.9,962.94,0.5868
+PROD-0002,A certeza de concretizar seus projetos de maneira eficaz,Livros,145.47,272.0,0.4652
+PROD-0003,A certeza de atingir seus objetivos com confiança,Roupas,410.12,1002.23,0.5908
+PROD-0004,O conforto de inovar direto da fonte,Roupas,116.2,180.17,0.3551
+PROD-0005,O poder de inovar antes de tudo,Esportes,27.88,65.22,0.5725
+PROD-0006,O conforto de avançar com confiança,Esportes,385.4,772.55,0.5011
+PROD-0007,A vantagem de ganhar naturalmente,Roupas,316.73,798.54,0.6034
+PROD-0008,A vantagem de inovar em estado puro,Esportes,195.07,334.5,0.4168
+PROD-0009,A arte de mudar direto da fonte,Eletrônicos,329.75,929.08,0.6451
+PROD-0010,O poder de inovar com força total,Eletrônicos,430.92,1130.44,0.6188
+PROD-0011,A segurança de concretizar seus projetos com confiança,Livros,113.33,236.83,0.5215
+PROD-0012,O prazer de inovar mais rapidamente,Eletrônicos,280.92,583.19,0.5183
+PROD-0013,A vantagem de concretizar seus projetos mais rapidamente,Livros,401.7,1196.83,0.6644
+PROD-0014,A certeza de inovar em estado puro,Esportes,299.75,701.87,0.5729
+PROD-0015,A certeza de avançar sem preocupação,Livros,361.04,731.27,0.5063
+PROD-0016,A vantagem de inovar antes de tudo,Esportes,453.89,1282.35,0.646
+PROD-0017,A simplicidade de concretizar seus projetos mais facilmente,Esportes,373.11,770.52,0.5158
+PROD-0018,A simplicidade de inovar naturalmente,Casa & Jardim,377.13,981.25,0.6157
+PROD-0019,O poder de atingir seus objetivos em estado puro,Roupas,263.04,464.74,0.434
+PROD-0020,A segurança de concretizar seus projetos com confiança,Casa & Jardim,43.35,73.64,0.4113
+PROD-0021,O direito de concretizar seus projetos com confiança,Livros,171.24,246.07,0.3041
+PROD-0022,O poder de inovar mais rapidamente,Esportes,79.66,197.53,0.5967
+PROD-0023,A vantagem de mudar direto da fonte,Eletrônicos,354.68,711.23,0.5013
+PROD-0024,O prazer de concretizar seus projetos antes de tudo,Esportes,168.79,338.73,0.5017
+PROD-0025,O direito de evoluir com confiança,Esportes,107.38,210.69,0.4903
+PROD-0026,A vantagem de evoluir em estado puro,Eletrônicos,386.05,1064.13,0.6372
+PROD-0027,A certeza de atingir seus objetivos com confiança,Esportes,383.97,810.51,0.5263
+PROD-0028,A certeza de concretizar seus projetos mais facilmente,Casa & Jardim,471.66,1217.31,0.6125
+PROD-0029,O prazer de ganhar mais rapidamente,Esportes,427.46,946.81,0.5485
+PROD-0030,O prazer de ganhar sem preocupação,Livros,368.64,1041.88,0.6462
+PROD-0031,O prazer de concretizar seus projetos simplesmente,Casa & Jardim,246.67,503.43,0.51
+PROD-0032,A liberdade de evoluir mais rapidamente,Casa & Jardim,19.37,47.21,0.5897
+PROD-0033,A vantagem de conseguir de maneira eficaz,Roupas,400.08,1091.76,0.6335
+PROD-0034,O prazer de ganhar antes de tudo,Livros,460.17,1016.06,0.5471
+PROD-0035,A arte de atingir seus objetivos com toda a tranquilidade,Livros,453.93,1025.64,0.5574
+PROD-0036,O poder de inovar em estado puro,Esportes,18.42,28.2,0.3468
+PROD-0037,A segurança de concretizar seus projetos mais rapidamente,Eletrônicos,233.54,406.89,0.426
+PROD-0038,A vantagem de atingir seus objetivos mais rapidamente,Esportes,167.04,309.97,0.4611
+PROD-0039,A possibilidade de avançar com confiança,Esportes,381.81,676.96,0.436
+PROD-0040,O poder de atingir seus objetivos com toda a tranquilidade,Esportes,475.85,822.68,0.4216
+PROD-0041,A certeza de atingir seus objetivos simplesmente,Eletrônicos,45.54,117.19,0.6114
+PROD-0042,A liberdade de atingir seus objetivos em estado puro,Casa & Jardim,30.78,51.75,0.4052
+PROD-0043,O prazer de mudar mais rapidamente,Eletrônicos,38.97,100.63,0.6127
+PROD-0044,O prazer de mudar com força total,Roupas,475.06,1295.34,0.6333
+PROD-0045,O prazer de atingir seus objetivos mais rapidamente,Roupas,312.56,473.4,0.3398
+PROD-0046,A liberdade de avançar sem preocupação,Livros,336.38,979.27,0.6565
+PROD-0047,A simplicidade de inovar com confiança,Casa & Jardim,235.19,612.37,0.6159
+PROD-0048,A simplicidade de evoluir direto da fonte,Livros,88.06,258.75,0.6597
+PROD-0049,A arte de evoluir com força total,Roupas,360.59,1060.14,0.6599
+PROD-0050,O prazer de evoluir com confiança,Eletrônicos,58.51,168.46,0.6527
+PROD-0051,O direito de concretizar seus projetos de maneira eficaz,Esportes,290.02,572.59,0.4935
+PROD-0052,O prazer de inovar em estado puro,Eletrônicos,358.93,827.9,0.5665
+PROD-0053,O prazer de avançar com confiança,Roupas,416.13,613.06,0.3212
+PROD-0054,A simplicidade de evoluir com confiança,Livros,387.38,1034.07,0.6254
+PROD-0055,O conforto de conseguir com toda a tranquilidade,Livros,399.13,1049.9,0.6198
+PROD-0056,A simplicidade de mudar mais facilmente,Esportes,176.87,428.84,0.5876
+PROD-0057,A liberdade de atingir seus objetivos com confiança,Casa & Jardim,39.13,51.71,0.2433
+PROD-0058,A arte de realizar seus sonhos mais rapidamente,Esportes,212.93,315.01,0.3241
+PROD-0059,O direito de atingir seus objetivos mais facilmente,Esportes,480.59,1202.64,0.6004
+PROD-0060,A liberdade de realizar seus sonhos em estado puro,Livros,220.57,648.76,0.66
+PROD-0061,O direito de realizar seus sonhos com toda a tranquilidade,Livros,138.69,362.94,0.6179
+PROD-0062,A simplicidade de atingir seus objetivos mais rapidamente,Livros,235.11,412.92,0.4306
+PROD-0063,A liberdade de realizar seus sonhos mais facilmente,Eletrônicos,426.6,756.86,0.4364
+PROD-0064,A simplicidade de inovar antes de tudo,Esportes,228.15,517.61,0.5592
+PROD-0065,O prazer de realizar seus sonhos com confiança,Casa & Jardim,335.75,452.86,0.2586
+PROD-0066,O direito de inovar sem preocupação,Roupas,426.22,907.35,0.5303
+PROD-0067,A simplicidade de conseguir antes de tudo,Casa & Jardim,180.64,339.35,0.4677
+PROD-0068,O poder de realizar seus sonhos antes de tudo,Casa & Jardim,440.76,989.44,0.5545
+PROD-0069,O prazer de avançar com força total,Roupas,260.73,376.9,0.3082
+PROD-0070,A segurança de concretizar seus projetos naturalmente,Esportes,361.44,811.0,0.5543
+PROD-0071,O direito de avançar de maneira eficaz,Esportes,123.96,297.26,0.583
+PROD-0072,A certeza de atingir seus objetivos com força total,Eletrônicos,247.96,361.57,0.3142
+PROD-0073,A liberdade de conseguir mais rapidamente,Roupas,114.69,208.8,0.4507
+PROD-0074,A segurança de concretizar seus projetos mais facilmente,Esportes,292.87,656.29,0.5537
+PROD-0075,O poder de inovar mais facilmente,Livros,175.16,326.21,0.463
+PROD-0076,A certeza de conseguir mais facilmente,Casa & Jardim,352.91,642.74,0.4509
+PROD-0077,A segurança de atingir seus objetivos com toda a tranquilidade,Roupas,119.12,218.76,0.4555
+PROD-0078,O conforto de realizar seus sonhos de maneira eficaz,Roupas,372.73,605.92,0.3849
+PROD-0079,A certeza de inovar naturalmente,Casa & Jardim,370.61,938.31,0.605
+PROD-0080,A arte de atingir seus objetivos direto da fonte,Livros,488.42,1130.47,0.5679
+PROD-0081,O poder de evoluir simplesmente,Roupas,490.35,884.4,0.4456
+PROD-0082,O conforto de mudar com toda a tranquilidade,Casa & Jardim,183.64,243.15,0.2447
+PROD-0083,A vantagem de inovar simplesmente,Casa & Jardim,269.4,371.07,0.274
+PROD-0084,A segurança de avançar mais facilmente,Casa & Jardim,31.99,79.51,0.5977
+PROD-0085,A simplicidade de avançar mais facilmente,Esportes,67.51,99.54,0.3218
+PROD-0086,O direito de concretizar seus projetos mais rapidamente,Casa & Jardim,11.07,23.22,0.5233
+PROD-0087,A certeza de conseguir mais rapidamente,Roupas,223.03,656.01,0.66
+PROD-0088,A certeza de evoluir sem preocupação,Esportes,129.98,194.18,0.3306
+PROD-0089,A arte de inovar com confiança,Esportes,37.35,53.26,0.2987
+PROD-0090,O prazer de inovar com toda a tranquilidade,Eletrônicos,316.58,493.21,0.3581
+PROD-0091,A simplicidade de inovar antes de tudo,Casa & Jardim,406.52,587.34,0.3079
+PROD-0092,A segurança de realizar seus sonhos sem preocupação,Livros,127.85,332.35,0.6153
+PROD-0093,O conforto de ganhar com confiança,Livros,305.13,513.74,0.4061
+PROD-0094,A certeza de avançar naturalmente,Esportes,263.67,750.0,0.6484
+PROD-0095,O direito de mudar com força total,Livros,152.19,453.99,0.6648
+PROD-0096,A liberdade de avançar simplesmente,Livros,156.16,219.0,0.2869
+PROD-0097,A arte de concretizar seus projetos naturalmente,Eletrônicos,480.25,1397.96,0.6565
+PROD-0098,A vantagem de avançar mais rapidamente,Roupas,107.86,188.74,0.4285
+PROD-0099,A arte de concretizar seus projetos mais rapidamente,Roupas,45.19,72.1,0.3732
+PROD-0100,A liberdade de evoluir mais facilmente,Eletrônicos,42.16,84.09,0.4986
